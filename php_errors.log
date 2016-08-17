@@ -1,0 +1,210 @@
+[12-Jun-2015 03:36:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 80
+[12-Jun-2015 03:36:39 UTC] PHP Stack trace:
+[12-Jun-2015 03:36:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[12-Jun-2015 03:36:39 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/ajax/controller.php:80
+[12-Jun-2015 03:38:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 80
+[12-Jun-2015 03:38:12 UTC] PHP Stack trace:
+[12-Jun-2015 03:38:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[12-Jun-2015 03:38:12 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/ajax/controller.php:80
+[14-Jun-2015 09:12:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/ajax/controller.php on line 113
+[14-Jun-2015 09:13:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/ajax/controller.php on line 113
+[14-Jun-2015 09:14:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/ajax/controller.php on line 113
+[14-Jun-2015 09:14:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/ajax/controller.php on line 113
+[14-Jun-2015 09:29:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/ajax/controller.php on line 113
+[14-Jun-2015 09:30:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/ajax/controller.php on line 113
+[14-Jun-2015 09:38:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/ajax/controller.php on line 113
+[14-Jun-2015 10:07:16 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/ajax/controller.php on line 50
+[22-Jun-2015 08:04:27 UTC] PHP Parse error:  syntax error, unexpected '"\""' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/ajax/controller.php on line 153
+[22-Jun-2015 08:12:56 UTC] PHP Warning:  include(init/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 3
+[22-Jun-2015 08:12:56 UTC] PHP Stack trace:
+[22-Jun-2015 08:12:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 08:12:56 UTC] PHP Warning:  include(): Failed opening 'init/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/controller.php on line 3
+[22-Jun-2015 08:12:56 UTC] PHP Stack trace:
+[22-Jun-2015 08:12:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:36:05 UTC] PHP Warning:  include(init/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 3
+[22-Jun-2015 16:36:05 UTC] PHP Stack trace:
+[22-Jun-2015 16:36:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:36:05 UTC] PHP Warning:  include(): Failed opening 'init/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/controller.php on line 3
+[22-Jun-2015 16:36:05 UTC] PHP Stack trace:
+[22-Jun-2015 16:36:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:51:51 UTC] PHP Warning:  include(..init/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 3
+[22-Jun-2015 16:51:51 UTC] PHP Stack trace:
+[22-Jun-2015 16:51:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:51:51 UTC] PHP Warning:  include(): Failed opening '..init/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/controller.php on line 3
+[22-Jun-2015 16:51:51 UTC] PHP Stack trace:
+[22-Jun-2015 16:51:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:51:51 UTC] PHP Warning:  mysql_query(): No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 13
+[22-Jun-2015 16:51:51 UTC] PHP Stack trace:
+[22-Jun-2015 16:51:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:51:51 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:13
+[22-Jun-2015 16:51:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/ajax/controller.php on line 13
+[22-Jun-2015 16:51:51 UTC] PHP Stack trace:
+[22-Jun-2015 16:51:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:51:51 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:13
+[22-Jun-2015 16:51:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 15
+[22-Jun-2015 16:51:51 UTC] PHP Stack trace:
+[22-Jun-2015 16:51:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:51:51 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/ajax/controller.php:15
+[22-Jun-2015 16:51:51 UTC] PHP Warning:  mysql_query(): No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 21
+[22-Jun-2015 16:51:51 UTC] PHP Stack trace:
+[22-Jun-2015 16:51:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:51:51 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:21
+[22-Jun-2015 16:51:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/ajax/controller.php on line 21
+[22-Jun-2015 16:51:51 UTC] PHP Stack trace:
+[22-Jun-2015 16:51:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:51:51 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:21
+[22-Jun-2015 16:51:51 UTC] PHP Warning:  mysql_query(): No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 25
+[22-Jun-2015 16:51:51 UTC] PHP Stack trace:
+[22-Jun-2015 16:51:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:51:51 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:25
+[22-Jun-2015 16:51:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/ajax/controller.php on line 25
+[22-Jun-2015 16:51:51 UTC] PHP Stack trace:
+[22-Jun-2015 16:51:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:51:51 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:25
+[22-Jun-2015 16:51:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 27
+[22-Jun-2015 16:51:51 UTC] PHP Stack trace:
+[22-Jun-2015 16:51:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:51:51 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/ajax/controller.php:27
+[22-Jun-2015 16:52:15 UTC] PHP Warning:  include(...init/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 3
+[22-Jun-2015 16:52:15 UTC] PHP Stack trace:
+[22-Jun-2015 16:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:52:15 UTC] PHP Warning:  include(): Failed opening '...init/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/controller.php on line 3
+[22-Jun-2015 16:52:15 UTC] PHP Stack trace:
+[22-Jun-2015 16:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:52:15 UTC] PHP Warning:  mysql_query(): No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 13
+[22-Jun-2015 16:52:15 UTC] PHP Stack trace:
+[22-Jun-2015 16:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:52:15 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:13
+[22-Jun-2015 16:52:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/ajax/controller.php on line 13
+[22-Jun-2015 16:52:15 UTC] PHP Stack trace:
+[22-Jun-2015 16:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:52:15 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:13
+[22-Jun-2015 16:52:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 15
+[22-Jun-2015 16:52:15 UTC] PHP Stack trace:
+[22-Jun-2015 16:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:52:15 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/ajax/controller.php:15
+[22-Jun-2015 16:52:15 UTC] PHP Warning:  mysql_query(): No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 21
+[22-Jun-2015 16:52:15 UTC] PHP Stack trace:
+[22-Jun-2015 16:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:52:15 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:21
+[22-Jun-2015 16:52:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/ajax/controller.php on line 21
+[22-Jun-2015 16:52:15 UTC] PHP Stack trace:
+[22-Jun-2015 16:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:52:15 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:21
+[22-Jun-2015 16:52:15 UTC] PHP Warning:  mysql_query(): No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 25
+[22-Jun-2015 16:52:15 UTC] PHP Stack trace:
+[22-Jun-2015 16:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:52:15 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:25
+[22-Jun-2015 16:52:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/ajax/controller.php on line 25
+[22-Jun-2015 16:52:15 UTC] PHP Stack trace:
+[22-Jun-2015 16:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:52:15 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:25
+[22-Jun-2015 16:52:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 27
+[22-Jun-2015 16:52:15 UTC] PHP Stack trace:
+[22-Jun-2015 16:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:52:15 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/ajax/controller.php:27
+[22-Jun-2015 16:53:52 UTC] PHP Warning:  include(init/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 3
+[22-Jun-2015 16:53:52 UTC] PHP Stack trace:
+[22-Jun-2015 16:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:53:52 UTC] PHP Warning:  include(): Failed opening 'init/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/controller.php on line 3
+[22-Jun-2015 16:53:52 UTC] PHP Stack trace:
+[22-Jun-2015 16:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:53:52 UTC] PHP Warning:  mysql_query(): No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 13
+[22-Jun-2015 16:53:52 UTC] PHP Stack trace:
+[22-Jun-2015 16:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:53:52 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:13
+[22-Jun-2015 16:53:52 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/ajax/controller.php on line 13
+[22-Jun-2015 16:53:52 UTC] PHP Stack trace:
+[22-Jun-2015 16:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:53:52 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:13
+[22-Jun-2015 16:53:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 15
+[22-Jun-2015 16:53:52 UTC] PHP Stack trace:
+[22-Jun-2015 16:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:53:52 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/ajax/controller.php:15
+[22-Jun-2015 16:53:52 UTC] PHP Warning:  mysql_query(): No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 21
+[22-Jun-2015 16:53:52 UTC] PHP Stack trace:
+[22-Jun-2015 16:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:53:52 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:21
+[22-Jun-2015 16:53:52 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/ajax/controller.php on line 21
+[22-Jun-2015 16:53:52 UTC] PHP Stack trace:
+[22-Jun-2015 16:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:53:52 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:21
+[22-Jun-2015 16:53:52 UTC] PHP Warning:  mysql_query(): No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 25
+[22-Jun-2015 16:53:52 UTC] PHP Stack trace:
+[22-Jun-2015 16:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:53:52 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:25
+[22-Jun-2015 16:53:52 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/ajax/controller.php on line 25
+[22-Jun-2015 16:53:52 UTC] PHP Stack trace:
+[22-Jun-2015 16:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:53:52 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:25
+[22-Jun-2015 16:53:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 27
+[22-Jun-2015 16:53:52 UTC] PHP Stack trace:
+[22-Jun-2015 16:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:53:52 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/ajax/controller.php:27
+[22-Jun-2015 16:54:07 UTC] PHP Warning:  include(init/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 3
+[22-Jun-2015 16:54:07 UTC] PHP Stack trace:
+[22-Jun-2015 16:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:54:07 UTC] PHP Warning:  include(): Failed opening 'init/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/controller.php on line 3
+[22-Jun-2015 16:54:07 UTC] PHP Stack trace:
+[22-Jun-2015 16:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:54:07 UTC] PHP Warning:  mysql_query(): No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 13
+[22-Jun-2015 16:54:07 UTC] PHP Stack trace:
+[22-Jun-2015 16:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:54:07 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:13
+[22-Jun-2015 16:54:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/ajax/controller.php on line 13
+[22-Jun-2015 16:54:07 UTC] PHP Stack trace:
+[22-Jun-2015 16:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:54:07 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:13
+[22-Jun-2015 16:54:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 15
+[22-Jun-2015 16:54:07 UTC] PHP Stack trace:
+[22-Jun-2015 16:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:54:07 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/ajax/controller.php:15
+[22-Jun-2015 16:54:07 UTC] PHP Warning:  mysql_query(): No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 21
+[22-Jun-2015 16:54:07 UTC] PHP Stack trace:
+[22-Jun-2015 16:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:54:07 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:21
+[22-Jun-2015 16:54:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/ajax/controller.php on line 21
+[22-Jun-2015 16:54:07 UTC] PHP Stack trace:
+[22-Jun-2015 16:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:54:07 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:21
+[22-Jun-2015 16:54:07 UTC] PHP Warning:  mysql_query(): No such file or directory in /home/ubuntu/workspace/ajax/controller.php on line 25
+[22-Jun-2015 16:54:07 UTC] PHP Stack trace:
+[22-Jun-2015 16:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:54:07 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:25
+[22-Jun-2015 16:54:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/ajax/controller.php on line 25
+[22-Jun-2015 16:54:07 UTC] PHP Stack trace:
+[22-Jun-2015 16:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:54:07 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/ajax/controller.php:25
+[22-Jun-2015 16:54:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 27
+[22-Jun-2015 16:54:07 UTC] PHP Stack trace:
+[22-Jun-2015 16:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 16:54:07 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/ajax/controller.php:27
+[22-Jun-2015 17:42:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 155
+[22-Jun-2015 17:42:26 UTC] PHP Stack trace:
+[22-Jun-2015 17:42:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 17:42:26 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/ajax/controller.php:155
+[22-Jun-2015 17:43:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 155
+[22-Jun-2015 17:43:11 UTC] PHP Stack trace:
+[22-Jun-2015 17:43:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 17:43:11 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/ajax/controller.php:155
+[22-Jun-2015 17:44:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 155
+[22-Jun-2015 17:44:15 UTC] PHP Stack trace:
+[22-Jun-2015 17:44:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 17:44:15 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/ajax/controller.php:155
+[22-Jun-2015 17:44:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 155
+[22-Jun-2015 17:44:36 UTC] PHP Stack trace:
+[22-Jun-2015 17:44:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 17:44:36 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/ajax/controller.php:155
+[22-Jun-2015 17:45:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 155
+[22-Jun-2015 17:45:30 UTC] PHP Stack trace:
+[22-Jun-2015 17:45:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 17:45:30 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/ajax/controller.php:155
+[22-Jun-2015 17:46:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 155
+[22-Jun-2015 17:46:20 UTC] PHP Stack trace:
+[22-Jun-2015 17:46:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 17:46:20 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/ajax/controller.php:155
+[22-Jun-2015 17:46:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/ajax/controller.php on line 155
+[22-Jun-2015 17:46:50 UTC] PHP Stack trace:
+[22-Jun-2015 17:46:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/controller.php:0
+[22-Jun-2015 17:46:50 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/ajax/controller.php:155
+[22-Jun-2015 17:48:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/ajax/controller.php on line 156
